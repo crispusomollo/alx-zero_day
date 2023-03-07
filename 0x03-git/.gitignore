@@ -1,0 +1,13 @@
+# -*- mode: gitignore; -*_
+
+*~
+
+\#*\#
+
+/.emacs.desktop
+
+/.emacs.desktop.lock
+
+*.elc
+
+.\#*
